@@ -185,6 +185,12 @@
                  "height":182.666666666667,
                  "id":9,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"welcome.html"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -193,12 +199,6 @@
                  "y":356.666666666667
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"welcome.html"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
